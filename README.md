@@ -15,7 +15,7 @@ A simple calculator made with Python. It lets users add, subtract, multiply, and
 2. 🔢 Choose an operation from 1 to 4.
 3. ✏️ Enter the first number.
 4. ✏️ Enter the second number.
-✅ The program will calculate and show the result.
+5. ✅ The program will calculate and show the result.
 
 # 🛠 Tech Stack
 
