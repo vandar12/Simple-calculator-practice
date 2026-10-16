@@ -8,7 +8,7 @@ A simple calculator made with Python. It lets users add, subtract, multiply, and
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-⚠️ Shows an error message if the user selects an invalid option
+- ⚠️ Shows an error message if the user selects an invalid option
 
 ## 🚀 How to Use
 1. ▶️ Run the Python program.
